@@ -4,7 +4,7 @@
 
 1. Allez dans le proprietés de "among us" sur steam puis aller sur versions beta et choisir "public-previous"
 
-
+![image](Capture d’écran 2026-06-07 141435.png)
 
 2. Allez dans les fichiers locaux "among us" sur steam
 
