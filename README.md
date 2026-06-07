@@ -14,7 +14,8 @@
 
 4. Collez le dossier sous un autre nom
 
-5. Telechargez "AllTheRoles-0.13.0-x86-steam-itch.zip" [ici](https://github.com/Zeo666/AllTheRoles/releases/tag/0.13.0)
+5. Telechargez "AllTheRoles-0.13.0-x86-steam-itch.zip" [ici](https://github.com/Zeo666/AllTheRoles/releases/tag/0.13.0/AllTheRoles-0.13.0-x86-steam-itch.zip
+)
 
 6. Extraire le dossier
 
