@@ -1,6 +1,6 @@
-# TheOtherRoles-tuto
+# AllTheRoles-tuto
 
-## tuto comment installer "TheOtherRoles" mod (Steam seulement)
+## tuto comment installer "AllTheRoles" mod (Steam seulement)
 
 1. Allez dans le proprietés de "among us" sur steam puis aller sur versions beta et choisir "public-previous"
 
@@ -14,11 +14,11 @@
 
 4. Collez le dossier sous un autre nom
 
-5. Telechargez "TheOtherRoles.zip" [ici](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/tag/v4.8.0)
+5. Telechargez "AllTheRoles-0.13.0-x86-steam-itch.zip" [ici](https://github.com/Zeo666/AllTheRoles/releases/tag/0.13.0)
 
 6. Extraire le dossier
 
-7. Copiez les fichier compris dans "TheOtherRoles" et mettez les dans la copie du dossier "among us" que vous avez crée
+7. Copiez les fichier compris dans "AllTheRoles-0.13.0-x86-steam-itch" et mettez les dans la copie du dossier "among us" que vous avez crée
 
 8. Lancer la copie du jeu
 
