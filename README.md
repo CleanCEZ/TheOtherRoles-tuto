@@ -4,7 +4,7 @@
 
 1. Allez dans le proprietés de "among us" sur steam puis aller sur versions beta et choisir "public-previous"
 
-![image](/Capture d’écran 2026-06-07 141435.png)
+<img width="1036" height="735" alt="Capture d’écran 2026-06-07 141435" src="https://github.com/user-attachments/assets/3be1383e-bedd-40e4-989c-9a13fd324a4a" />
 
 2. Allez dans les fichiers locaux "among us" sur steam
 
