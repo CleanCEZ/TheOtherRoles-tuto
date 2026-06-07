@@ -1,6 +1,6 @@
-# town-of-us-tuto
+# TheOtherRoles-tuto
 
-## tuto comment installer "town of us" mod (Steam seulement)
+## tuto comment installer "TheOtherRoles" mod (Steam seulement)
 
 1. Allez dans les fichiers locaux "among us" sur steam
 
@@ -10,8 +10,10 @@
 
 3. Collez le dossier sous un autre nom
 
-4. Telechargez "ToU.v5.3.1.zip" [ici](https://github.com/eDonnes124/Town-Of-Us-R/releases/tag/v5.3.1)
+4. Telechargez "TheOtherRoles.zip" [ici](https://github.com/TheOtherRolesAU/TheOtherRoles/releases/tag/v4.8.0)
 
-5. Copiez les fichier compris dans "ToU.v5.3.1.zip" et mettez les dans la copie du dossier "among us" que vous avez crée
+5. Extraire le dossier
 
-6. Lancer le jeu
+5. Copiez les fichier compris dans "TheOtherRoles" et mettez les dans la copie du dossier "among us" que vous avez crée
+
+6. Lancer la copie du jeu
